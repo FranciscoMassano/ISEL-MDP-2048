@@ -1,0 +1,3 @@
+numero=a40708
+amigos=a42361,a42341,a40356
+fim
